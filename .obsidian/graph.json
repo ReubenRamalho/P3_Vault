@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Estrutura de Dados\"",
+      "color": {
+        "a": 1,
+        "rgb": 13115057
+      }
+    },
+    {
+      "query": "path:\"Teoria da Computação\"",
+      "color": {
+        "a": 1,
+        "rgb": 3747297
+      }
+    },
+    {
+      "query": "path:\"Circuitos Lógicos\"",
+      "color": {
+        "a": 1,
+        "rgb": 9746228
+      }
+    },
+    {
+      "query": "path:LP2",
+      "color": {
+        "a": 1,
+        "rgb": 14497334
+      }
+    },
+    {
+      "query": "path:\"Cálculo 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 15,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.58225838362884,
+  "close": true
+}
