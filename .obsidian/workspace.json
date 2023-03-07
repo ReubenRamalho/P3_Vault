@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fed3c13d1ca0af6",
+        "id": "6b9d91b0773b7d39",
         "type": "tabs",
         "children": [
           {
-            "id": "31ba36933f8c894f",
+            "id": "5c0509cffef55107",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 363.5
   },
   "right": {
     "id": "db4251bb0853762b",
@@ -138,37 +138,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir a troca rápida": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
+      "canvas:Criar novo canvas": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "31ba36933f8c894f",
+  "active": "7e666087c5fe2b80",
   "lastOpenFiles": [
-    "Teoria da Computação/Lista de Aulas/Lista de Aulas.md",
-    "Teoria da Computação/Lista de Aulas/Aula 02 - 23.02.23.md",
-    "Cálculo 2/Alfabeto de Símbulos.md",
-    "Cálculo 2/Aula 01 - 13.02.2023.md",
-    "Cálculo 2/Cálculo 2.md",
-    "Context/#Cálculo02.mdb",
-    "Cálculo 2/context.mdb",
-    "Context",
-    "Teoria da Computação/Lista de Aulas/Aula 01 - 09.02.23.md",
-    "Teoria da Computação/Aula 02 - 23.02.23.md",
-    "Aula 02 - 23.02.23.md",
-    "Sem título.canvas",
-    "Teoria da Computação/Anotações Rápidas.md",
-    "Aulas",
-    "Teoria da Computação/Teoria da Computação.md",
-    "Teoria da Computação/Lista de Aulas",
-    "Teoria da Computação/Lista de Aulas",
     "LP2/LP2.md",
+    "LP2/Agenda.md",
+    "Estrutura de Dados/Estrutura de Dados.md",
+    "Teoria da Computação/Agenda.md",
+    "Estrutura de Dados/Agenda.md",
+    "Agenda Geral/Agenda - 07.03.23.md",
+    "Circuitos Lógicos/Circuitos Lógicos.md",
+    "Agenda Geral/context.mdb",
+    "Agenda Geral/Agenda Geral.md",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Context/#origen.mdb",
+    "Circuitos Lógicos/Tarefas/Lista_de_Exercicios_1/Lista_de_Exercicios_1.pdf",
+    "Agenda Geral",
+    "Estrutura de Dados/Lista de Aulas/Aula 03 - 07.03.23.md",
+    "Estrutura de Dados/Livros/Livros.md",
+    "Estrutura de Dados/Lista de Aulas/context.mdb",
+    "Estrutura de Dados/Lista de Aulas/Aula 01 - 09.02.23.md",
+    "Estrutura de Dados/Lista de Aulas/Aula 02 - 02.03.2023.md",
+    "Circuitos Lógicos/Tarefas/Tarefas.md",
+    "Estrutura de Dados/Lista de Aulas/Lista de Aulas.md",
+    "Circuitos Lógicos/Sem título.md",
+    "Circuitos Lógicos/Tarefas/Lista_de_Exercicios_1",
+    "Estrutura de Dados/Livros/Introdução à Estruturas de Dados.pdf",
+    "Estrutura de Dados/Livros/c-completo-total.pdf",
+    "Introdução à Estruturas de Dados.pdf",
+    "c-completo-total.pdf",
+    "Estrutura de Dados/Aula 01 - 09.02.23.md",
+    "Aula 01 - 09.02.23.md",
+    "Teoria da Computação/Lista de Aulas/Aula 02 - 23.02.23.md",
+    "Teoria da Computação/Lista de Aulas/Lista de Aulas.md",
+    "Teoria da Computação/Lista de Aulas/Aula 01 - 09.02.23.md",
     "LP2/Projeto Final/JavaFX.md",
-    "Paste.md",
-    "LP2/Projeto Final/Projeto Final.md",
-    "Estrutura de Dados/Aula 01 - 09.02.23.md"
+    "LP2/Lista de Aulas/Lista de Aulas.md",
+    "Lista de Aulas/Aulas.md",
+    "LP2/Lista de Aulas/Aula 02 - 27.02.23.md",
+    "Cálculo 2/Alfabeto de Símbulos.md",
+    "Cálculo 2/Aula 01 - 13.02.2023.md"
   ]
 }

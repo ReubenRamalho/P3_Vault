@@ -29,14 +29,13 @@
     "LP2": [
       "Projeto Final"
     ],
-    "Teoria da Computação": [
-      "Teoria da Computação/Lista de Aulas"
-    ]
+    "Teoria da Computação": [],
+    "Estrutura de Dados": [],
+    "Circuitos Lógicos": []
   },
   "expandedSpaces": [
     null,
-    null,
-    "Teoria da Computação"
+    null
   ],
   "folderRank": {
     "node": "root",
