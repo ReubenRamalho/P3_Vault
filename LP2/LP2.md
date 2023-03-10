@@ -7,3 +7,5 @@ Horário: Segundas e Quartas (10h às 12h)
 # Hiperlinks 
 - [[Projeto Final]]
 - [[LP2/Lista de Aulas/Lista de Aulas]]
+- [[Resumo dos Slides]]
+- [[Exercícios]]

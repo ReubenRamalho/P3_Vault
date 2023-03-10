@@ -27,14 +27,18 @@
       "/"
     ],
     "LP2": [
-      "Projeto Final"
+      "Projeto Final",
+      "LP2/Exercícios"
     ],
     "Teoria da Computação": [],
-    "Estrutura de Dados": [],
-    "Circuitos Lógicos": []
+    "Estrutura de Dados": [
+      "Estrutura de Dados/Lista de Aulas"
+    ],
+    "Circuitos Lógicos": [],
+    "Agenda Geral": []
   },
   "expandedSpaces": [
-    null,
+    "Agenda Geral",
     null
   ],
   "folderRank": {

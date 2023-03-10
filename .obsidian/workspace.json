@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9d91b0773b7d39",
+        "id": "49c0392e2067e512",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0509cffef55107",
+            "id": "be8e501346f360a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Agenda Geral/Agenda - 10.03.23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 293.5
   },
   "right": {
     "id": "db4251bb0853762b",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Agenda Geral/Agenda - 10.03.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Agenda Geral/Agenda - 10.03.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Agenda Geral/Agenda - 10.03.23.md"
+              }
             }
           }
         ]
@@ -146,45 +154,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7e666087c5fe2b80",
+  "active": "be8e501346f360a9",
   "lastOpenFiles": [
+    "Agenda Geral/Agenda - 09.03.23.md",
+    "Agenda Geral/Agenda - 08.03.23.md",
+    "Agenda Geral/Agenda - 10.03.23.md",
+    "LP2/Exercícios/Introdução - Modo de Compatibilidade - Ex 02.md",
+    "LP2/Exercícios/Sem título.md",
+    "LP2/Exercícios/Arquivos Funcionais/Jantar dos filósofos.png",
+    "LP2/Exercícios/Arquivos Funcionais",
+    "Agenda Geral/Arquivos Funcionais/Jantar dos filósofos.png",
+    "Agenda Geral/Agenda - 07.03.23.md",
+    "Estrutura de Dados/Lista de Aulas/Aula 03 - 07.03.23.md",
+    "Estrutura de Dados/Lista de Aulas/Aula 02 - 02.03.2023.md",
+    "LP2/Resumo dos Slides/Programação Concorrente e Distibuída.md",
+    "Agenda Geral/Arquivos Funcionais/Exercício 3.png",
+    "Arquivos Funcionais",
+    "Agenda Geral/Arquivos Funcionais",
+    "Agenda Geral/context.mdb",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Dependencia de Velocidade 01.png",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Sistemas Distribuídos.png",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Sistemas Multiprocessador.png",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Sistema Multitarefa.png",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Introdução - Modo de Compatibilidade - Ex 02.png",
+    "LP2/Lista de Aulas/Lista de Aulas.md",
+    "LP2/Resumo dos Slides/Resumo dos Slides.md",
+    "Resumo dos Slides.md",
+    "LP2/Exercícios/Exercícios.md",
+    "LP2/Exercícios",
+    "Aula 02 - 27.02.23.md",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Aquisição Incremental.png",
+    "LP2/Resumo dos Slides/Arquivos Funcionais/Espera Circular.png",
+    "Paste.md",
+    "Teoria da Computação/Teoria da Computação.md",
+    "LP2/Resumo dos Slides/Arquivos Funcionais",
+    "Teoria da Computação/Arquivos Funcionais",
+    "LP2/Resumo dos Slides",
+    "LP2/Lista de Aulas/Aula 02 - 27.02.23.md",
     "LP2/LP2.md",
     "LP2/Agenda.md",
     "Estrutura de Dados/Estrutura de Dados.md",
     "Teoria da Computação/Agenda.md",
     "Estrutura de Dados/Agenda.md",
-    "Agenda Geral/Agenda - 07.03.23.md",
     "Circuitos Lógicos/Circuitos Lógicos.md",
-    "Agenda Geral/context.mdb",
     "Agenda Geral/Agenda Geral.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
     "Context/#origen.mdb",
     "Circuitos Lógicos/Tarefas/Lista_de_Exercicios_1/Lista_de_Exercicios_1.pdf",
-    "Agenda Geral",
-    "Estrutura de Dados/Lista de Aulas/Aula 03 - 07.03.23.md",
-    "Estrutura de Dados/Livros/Livros.md",
-    "Estrutura de Dados/Lista de Aulas/context.mdb",
-    "Estrutura de Dados/Lista de Aulas/Aula 01 - 09.02.23.md",
-    "Estrutura de Dados/Lista de Aulas/Aula 02 - 02.03.2023.md",
-    "Circuitos Lógicos/Tarefas/Tarefas.md",
-    "Estrutura de Dados/Lista de Aulas/Lista de Aulas.md",
-    "Circuitos Lógicos/Sem título.md",
-    "Circuitos Lógicos/Tarefas/Lista_de_Exercicios_1",
-    "Estrutura de Dados/Livros/Introdução à Estruturas de Dados.pdf",
-    "Estrutura de Dados/Livros/c-completo-total.pdf",
-    "Introdução à Estruturas de Dados.pdf",
-    "c-completo-total.pdf",
-    "Estrutura de Dados/Aula 01 - 09.02.23.md",
-    "Aula 01 - 09.02.23.md",
-    "Teoria da Computação/Lista de Aulas/Aula 02 - 23.02.23.md",
-    "Teoria da Computação/Lista de Aulas/Lista de Aulas.md",
-    "Teoria da Computação/Lista de Aulas/Aula 01 - 09.02.23.md",
-    "LP2/Projeto Final/JavaFX.md",
-    "LP2/Lista de Aulas/Lista de Aulas.md",
-    "Lista de Aulas/Aulas.md",
-    "LP2/Lista de Aulas/Aula 02 - 27.02.23.md",
-    "Cálculo 2/Alfabeto de Símbulos.md",
-    "Cálculo 2/Aula 01 - 13.02.2023.md"
+    "Estrutura de Dados/Livros/Livros.md"
   ]
 }
